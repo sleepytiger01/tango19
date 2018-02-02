@@ -1,0 +1,109 @@
+{
+  "arch": "x86_64",
+  "build": "h1bed415_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/main",
+  "constrains": [],
+  "depends": [
+    "libedit",
+    "libgcc-ng >=7.2.0"
+  ],
+  "extracted_package_dir": "/home/zhouhc/anaconda3/pkgs/sqlite-3.22.0-h1bed415_0",
+  "files": [
+    "bin/sqlite3",
+    "include/sqlite3.h",
+    "include/sqlite3ext.h",
+    "lib/libsqlite3.a",
+    "lib/libsqlite3.la",
+    "lib/libsqlite3.so",
+    "lib/libsqlite3.so.0",
+    "lib/libsqlite3.so.0.8.6",
+    "lib/pkgconfig/sqlite3.pc"
+  ],
+  "fn": "sqlite-3.22.0-h1bed415_0.tar.bz2",
+  "license": "Public-Domain (http://www.sqlite.org/copyright.html)",
+  "link": {
+    "source": "/home/zhouhc/anaconda3/pkgs/sqlite-3.22.0-h1bed415_0",
+    "type": 1
+  },
+  "md5": "5198a7d43090c167e83770e9a9b93b1e",
+  "name": "sqlite",
+  "package_tarball_full_path": "/home/zhouhc/anaconda3/pkgs/sqlite-3.22.0-h1bed415_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/sqlite3",
+        "path_type": "hardlink",
+        "sha256": "59753932823dae89b49b2853397f2820f763482faa6cf3c26ab5fc95e5f08c84",
+        "sha256_in_prefix": "59753932823dae89b49b2853397f2820f763482faa6cf3c26ab5fc95e5f08c84",
+        "size_in_bytes": 1123152
+      },
+      {
+        "_path": "include/sqlite3.h",
+        "path_type": "hardlink",
+        "sha256": "a9eac62fa30ba19c080674b086e14d2dc9eefe736b49aa32c65d4b50d31d5e18",
+        "sha256_in_prefix": "a9eac62fa30ba19c080674b086e14d2dc9eefe736b49aa32c65d4b50d31d5e18",
+        "size_in_bytes": 515857
+      },
+      {
+        "_path": "include/sqlite3ext.h",
+        "path_type": "hardlink",
+        "sha256": "f446a85a9b71a20eef1f6bc5eb2201c020462a17839a3fe4a606231bdef1c229",
+        "sha256_in_prefix": "f446a85a9b71a20eef1f6bc5eb2201c020462a17839a3fe4a606231bdef1c229",
+        "size_in_bytes": 31394
+      },
+      {
+        "_path": "lib/libsqlite3.a",
+        "path_type": "hardlink",
+        "sha256": "6e47cabf0de9cfbca89cefb9f4b6a94972d8806ff89d44bb7ece57516174bc78",
+        "sha256_in_prefix": "6e47cabf0de9cfbca89cefb9f4b6a94972d8806ff89d44bb7ece57516174bc78",
+        "size_in_bytes": 1164344
+      },
+      {
+        "_path": "lib/libsqlite3.la",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "9ea04bfabd37741dcb307334e16945f7d39530be67af05714f5df2f3f7f17fd2",
+        "sha256_in_prefix": "75da5492a7e4359d7fa1b86672f056f7f41f603acd65ea5807d846acd6039d19",
+        "size_in_bytes": 1013
+      },
+      {
+        "_path": "lib/libsqlite3.so",
+        "path_type": "softlink",
+        "sha256": "8cadaea08d8936cd35041ca95f00cd351af4d1753c77f69c1880d3d1e7e365b0",
+        "size_in_bytes": 971904
+      },
+      {
+        "_path": "lib/libsqlite3.so.0",
+        "path_type": "softlink",
+        "sha256": "8cadaea08d8936cd35041ca95f00cd351af4d1753c77f69c1880d3d1e7e365b0",
+        "size_in_bytes": 971904
+      },
+      {
+        "_path": "lib/libsqlite3.so.0.8.6",
+        "path_type": "hardlink",
+        "sha256": "8cadaea08d8936cd35041ca95f00cd351af4d1753c77f69c1880d3d1e7e365b0",
+        "sha256_in_prefix": "8cadaea08d8936cd35041ca95f00cd351af4d1753c77f69c1880d3d1e7e365b0",
+        "size_in_bytes": 971904
+      },
+      {
+        "_path": "lib/pkgconfig/sqlite3.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "388459ab327bfeb1c21c0d0eaaf40b0d94ee52fc3d9cb0de6c31e86c557b2393",
+        "sha256_in_prefix": "70c1ec645206ff58a3103c143445df97a90efa7e6d9cb76c95f99cf626ff9563",
+        "size_in_bytes": 300
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "linux",
+  "requested_spec": "None",
+  "size": 1582745,
+  "subdir": "linux-64",
+  "timestamp": 1517325921602,
+  "url": "https://repo.continuum.io/pkgs/main/linux-64/sqlite-3.22.0-h1bed415_0.tar.bz2",
+  "version": "3.22.0"
+}

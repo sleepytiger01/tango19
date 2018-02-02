@@ -1,0 +1,47 @@
+{
+  "arch": "x86_64",
+  "build": "h1d4fec5_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/main",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "/home/zhouhc/anaconda3/pkgs/ca-certificates-2017.08.26-h1d4fec5_0",
+  "files": [
+    "ssl/cacert.pem",
+    "ssl/cert.pem"
+  ],
+  "fn": "ca-certificates-2017.08.26-h1d4fec5_0.tar.bz2",
+  "license": "ISC",
+  "link": {
+    "source": "/home/zhouhc/anaconda3/pkgs/ca-certificates-2017.08.26-h1d4fec5_0",
+    "type": 1
+  },
+  "md5": "6b74b83b6b78ef64838cb8d6b001fa56",
+  "name": "ca-certificates",
+  "package_tarball_full_path": "/home/zhouhc/anaconda3/pkgs/ca-certificates-2017.08.26-h1d4fec5_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "ssl/cacert.pem",
+        "path_type": "hardlink",
+        "sha256": "b10170d08f50566ccb96141d4d688a043068571059b517a6ee8c20ec6be1c263",
+        "sha256_in_prefix": "b10170d08f50566ccb96141d4d688a043068571059b517a6ee8c20ec6be1c263",
+        "size_in_bytes": 778491
+      },
+      {
+        "_path": "ssl/cert.pem",
+        "path_type": "softlink",
+        "sha256": "b10170d08f50566ccb96141d4d688a043068571059b517a6ee8c20ec6be1c263",
+        "size_in_bytes": 778491
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "linux",
+  "requested_spec": "None",
+  "size": 269673,
+  "subdir": "linux-64",
+  "timestamp": 1505666760156,
+  "url": "https://repo.continuum.io/pkgs/main/linux-64/ca-certificates-2017.08.26-h1d4fec5_0.tar.bz2",
+  "version": "2017.08.26"
+}

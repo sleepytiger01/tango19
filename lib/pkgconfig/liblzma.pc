@@ -1,0 +1,19 @@
+#
+# Author: Lasse Collin
+#
+# This file has been put into the public domain.
+# You can do whatever you want with this file.
+#
+
+prefix=/home/zhouhc/anaconda3/envs/tango
+exec_prefix=/home/zhouhc/anaconda3/envs/tango
+libdir=/home/zhouhc/anaconda3/envs/tango/lib
+includedir=/home/zhouhc/anaconda3/envs/tango/include
+
+Name: liblzma
+Description: General purpose data compression library
+URL: http://tukaani.org/xz/
+Version: 5.2.3
+Cflags: -I${includedir}
+Libs: -L${libdir} -llzma
+Libs.private: -pthread -lrt  

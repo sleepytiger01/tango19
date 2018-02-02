@@ -1,0 +1,83 @@
+{
+  "arch": "x86_64",
+  "build": "h7a57d05_2",
+  "build_number": 2,
+  "channel": "https://repo.continuum.io/pkgs/main",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "/home/zhouhc/anaconda3/pkgs/libstdcxx-ng-7.2.0-h7a57d05_2",
+  "files": [
+    "lib/libstdc++.so",
+    "lib/libstdc++.so.6",
+    "lib/libstdc++.so.6.0.24",
+    "share/licenses/libstdc++/RUNTIME.LIBRARY.EXCEPTION",
+    "x86_64-conda_cos6-linux-gnu/sysroot/lib/libstdc++.so",
+    "x86_64-conda_cos6-linux-gnu/sysroot/lib/libstdc++.so.6",
+    "x86_64-conda_cos6-linux-gnu/sysroot/lib/libstdc++.so.6.0.24"
+  ],
+  "fn": "libstdcxx-ng-7.2.0-h7a57d05_2.tar.bz2",
+  "license": "GPL3 with runtime exception",
+  "link": {
+    "source": "/home/zhouhc/anaconda3/pkgs/libstdcxx-ng-7.2.0-h7a57d05_2",
+    "type": 1
+  },
+  "md5": "adc03ef4ba1dc78dc5eba80c23be4bb5",
+  "name": "libstdcxx-ng",
+  "package_tarball_full_path": "/home/zhouhc/anaconda3/pkgs/libstdcxx-ng-7.2.0-h7a57d05_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/libstdc++.so",
+        "path_type": "softlink",
+        "sha256": "732f788210e97a5453b4f996eb7f79025a6029799f70a09185345258123fd532",
+        "size_in_bytes": 8188008
+      },
+      {
+        "_path": "lib/libstdc++.so.6",
+        "path_type": "softlink",
+        "sha256": "732f788210e97a5453b4f996eb7f79025a6029799f70a09185345258123fd532",
+        "size_in_bytes": 8188008
+      },
+      {
+        "_path": "lib/libstdc++.so.6.0.24",
+        "path_type": "hardlink",
+        "sha256": "732f788210e97a5453b4f996eb7f79025a6029799f70a09185345258123fd532",
+        "sha256_in_prefix": "732f788210e97a5453b4f996eb7f79025a6029799f70a09185345258123fd532",
+        "size_in_bytes": 8188008
+      },
+      {
+        "_path": "share/licenses/libstdc++/RUNTIME.LIBRARY.EXCEPTION",
+        "path_type": "hardlink",
+        "sha256": "9d6b43ce4d8de0c878bf16b54d8e7a10d9bd42b75178153e3af6a815bdc90f74",
+        "sha256_in_prefix": "9d6b43ce4d8de0c878bf16b54d8e7a10d9bd42b75178153e3af6a815bdc90f74",
+        "size_in_bytes": 3324
+      },
+      {
+        "_path": "x86_64-conda_cos6-linux-gnu/sysroot/lib/libstdc++.so",
+        "path_type": "softlink",
+        "sha256": "732f788210e97a5453b4f996eb7f79025a6029799f70a09185345258123fd532",
+        "size_in_bytes": 8188008
+      },
+      {
+        "_path": "x86_64-conda_cos6-linux-gnu/sysroot/lib/libstdc++.so.6",
+        "path_type": "softlink",
+        "sha256": "732f788210e97a5453b4f996eb7f79025a6029799f70a09185345258123fd532",
+        "size_in_bytes": 8188008
+      },
+      {
+        "_path": "x86_64-conda_cos6-linux-gnu/sysroot/lib/libstdc++.so.6.0.24",
+        "path_type": "softlink",
+        "sha256": "732f788210e97a5453b4f996eb7f79025a6029799f70a09185345258123fd532",
+        "size_in_bytes": 8188008
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "linux",
+  "requested_spec": "None",
+  "size": 2627769,
+  "subdir": "linux-64",
+  "timestamp": 1507262729393,
+  "url": "https://repo.continuum.io/pkgs/main/linux-64/libstdcxx-ng-7.2.0-h7a57d05_2.tar.bz2",
+  "version": "7.2.0"
+}
